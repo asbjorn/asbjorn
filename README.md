@@ -22,8 +22,16 @@ You can ask 💬 me about:
 - linux and cloud (GCP / AWS)
 - Python, Golang, C/C++
 - Databases: MariaDB/MySQL, PostgreSQL
-- Shell scripting (bash and fish)
+- Other cool tech: Redis, GCP PubSub, Rabbit, ZMQ, gRPC, MQTT, Docker, Linux, k8s
+- Shell scripting (sh, bash, fish)
 
+
+🔭 I’m currently working on ...
+- GCP Cloud for Moen Marin
+- Cloud architecture
+- Embedded systems for Marine vessel sensors and telemetry
+- Backend web applications
+- Some simple frontend development (Vue)
 
 
 ### 📫 How to reach me:
@@ -31,18 +39,3 @@ You can ask 💬 me about:
 - [Email](mailto:asbjorn@fellinghaug.com)
 - [Twitter](https://twitter.com/assbear)
 - [Linkedin](https://www.linkedin.com/in/asbjornfellinghaug)
-
-<!--
-**asbjorn/asbjorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
