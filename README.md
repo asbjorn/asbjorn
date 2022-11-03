@@ -20,7 +20,7 @@ I primarily work within open source environments:
 
 You can ask 💬 me about:
 - linux and cloud (GCP / AWS)
-- Python, Golang, C/C++
+- Python, Go, C/C++, Javascript
 - Databases: MariaDB/MySQL, PostgreSQL
 - Other cool tech: Redis, GCP PubSub, Rabbit, ZMQ, gRPC, MQTT, Docker, Linux, k8s
 - Shell scripting (sh, bash, fish)
