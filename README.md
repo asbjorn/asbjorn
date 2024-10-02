@@ -21,16 +21,16 @@ I primarily work within open source environments:
 You can ask 💬 me about:
 - linux and cloud (GCP / AWS)
 - Python, Go, C/C++, Javascript
-- Databases: MariaDB/MySQL, PostgreSQL
-- Other cool tech: Redis, GCP PubSub, Rabbit, ZMQ, gRPC, MQTT, Docker, Linux, k8s
-- Shell scripting (sh, bash, fish)
+- Databases: PostgreSQL, MariaDB/MySQL
+- Other cool tech: Redis, queue systems, Prometheus, TimescaleDB, Rabbit, ZMQ, gRPC, MQTT, Docker, Linux, k8s
+- Shell fun
 
 
 🔭 I’m currently working on ...
-- GCP Cloud for Moen Marin
+- GCP Cloud for [Moen Marin](https://moenmarin.no)
 - Cloud architecture
 - Embedded systems for Marine vessel sensors and telemetry
-- Backend web applications
+- Backend services (Django, FastAPI, golang)
 - Some simple frontend development (Vue)
 
 
